@@ -38,6 +38,13 @@ ion-icon {
 }
 
 /* navbar section */
+#header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-image: linear-gradient(to bottom right, #77dfd5, #77d0cf, #e6c7bf);
+
+}
 .navbar {
     height: auto;
 }
